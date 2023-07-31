@@ -1,0 +1,33 @@
+C:\Users\lucas\source\repos\TP1_Aula4\TP1_Aula4\bin\Debug\TP1_Aula4.exe.config
+C:\Users\lucas\source\repos\TP1_Aula4\TP1_Aula4\bin\Debug\TP1_Aula4.exe
+C:\Users\lucas\source\repos\TP1_Aula4\TP1_Aula4\bin\Debug\TP1_Aula4.pdb
+C:\Users\lucas\source\repos\TP1_Aula4\TP1_Aula4\obj\Debug\TP1_Aula4.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\TP1_Aula4\TP1_Aula4\obj\Debug\TP1_Aula4.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\source\repos\TP1_Aula4\TP1_Aula4\obj\Debug\TP1_Aula4.Form1.resources
+C:\Users\lucas\source\repos\TP1_Aula4\TP1_Aula4\obj\Debug\TP1_Aula4.Properties.Resources.resources
+C:\Users\lucas\source\repos\TP1_Aula4\TP1_Aula4\obj\Debug\TP1_Aula4.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\TP1_Aula4\TP1_Aula4\obj\Debug\TP1_Aula4.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\TP1_Aula4\TP1_Aula4\obj\Debug\TP1_Aula4.exe
+C:\Users\lucas\source\repos\TP1_Aula4\TP1_Aula4\obj\Debug\TP1_Aula4.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\TPs\TP ASENJO\C# Forms\4TP\TP1_Aula4\TP1_Aula4\bin\Debug\TP1_Aula4.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\TPs\TP ASENJO\C# Forms\4TP\TP1_Aula4\TP1_Aula4\bin\Debug\TP1_Aula4.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\TPs\TP ASENJO\C# Forms\4TP\TP1_Aula4\TP1_Aula4\bin\Debug\TP1_Aula4.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\TPs\TP ASENJO\C# Forms\4TP\TP1_Aula4\TP1_Aula4\obj\Debug\TP1_Aula4.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\TPs\TP ASENJO\C# Forms\4TP\TP1_Aula4\TP1_Aula4\obj\Debug\TP1_Aula4.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\TPs\TP ASENJO\C# Forms\4TP\TP1_Aula4\TP1_Aula4\obj\Debug\TP1_Aula4.Form1.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\TPs\TP ASENJO\C# Forms\4TP\TP1_Aula4\TP1_Aula4\obj\Debug\TP1_Aula4.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\TPs\TP ASENJO\C# Forms\4TP\TP1_Aula4\TP1_Aula4\obj\Debug\TP1_Aula4.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\TPs\TP ASENJO\C# Forms\4TP\TP1_Aula4\TP1_Aula4\obj\Debug\TP1_Aula4.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\TPs\TP ASENJO\C# Forms\4TP\TP1_Aula4\TP1_Aula4\obj\Debug\TP1_Aula4.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\TPs\TP ASENJO\C# Forms\4TP\TP1_Aula4\TP1_Aula4\obj\Debug\TP1_Aula4.pdb
+C:\Users\Lucão\Desktop\TPs\TP ASENJO\C# Forms\4TP\TP1_Aula4\TP1_Aula4\bin\Debug\TP1_Aula4.exe.config
+C:\Users\Lucão\Desktop\TPs\TP ASENJO\C# Forms\4TP\TP1_Aula4\TP1_Aula4\bin\Debug\TP1_Aula4.exe
+C:\Users\Lucão\Desktop\TPs\TP ASENJO\C# Forms\4TP\TP1_Aula4\TP1_Aula4\bin\Debug\TP1_Aula4.pdb
+C:\Users\Lucão\Desktop\TPs\TP ASENJO\C# Forms\4TP\TP1_Aula4\TP1_Aula4\obj\Debug\TP1_Aula4.csproj.AssemblyReference.cache
+C:\Users\Lucão\Desktop\TPs\TP ASENJO\C# Forms\4TP\TP1_Aula4\TP1_Aula4\obj\Debug\TP1_Aula4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucão\Desktop\TPs\TP ASENJO\C# Forms\4TP\TP1_Aula4\TP1_Aula4\obj\Debug\TP1_Aula4.Form1.resources
+C:\Users\Lucão\Desktop\TPs\TP ASENJO\C# Forms\4TP\TP1_Aula4\TP1_Aula4\obj\Debug\TP1_Aula4.Properties.Resources.resources
+C:\Users\Lucão\Desktop\TPs\TP ASENJO\C# Forms\4TP\TP1_Aula4\TP1_Aula4\obj\Debug\TP1_Aula4.csproj.GenerateResource.cache
+C:\Users\Lucão\Desktop\TPs\TP ASENJO\C# Forms\4TP\TP1_Aula4\TP1_Aula4\obj\Debug\TP1_Aula4.csproj.CoreCompileInputs.cache
+C:\Users\Lucão\Desktop\TPs\TP ASENJO\C# Forms\4TP\TP1_Aula4\TP1_Aula4\obj\Debug\TP1_Aula4.exe
+C:\Users\Lucão\Desktop\TPs\TP ASENJO\C# Forms\4TP\TP1_Aula4\TP1_Aula4\obj\Debug\TP1_Aula4.pdb
